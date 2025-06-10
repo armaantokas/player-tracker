@@ -40,6 +40,8 @@ If that does not work here is the link to download:- "https://drive.google.com/f
 
 ### 4. Run Main.py
 
+---
+
 ### Author
 Armaan Tokas
 github.com/armaantokas
