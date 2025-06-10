@@ -44,4 +44,5 @@ If that does not work here is the link to download:- "https://drive.google.com/f
 
 ### Author
 Armaan Tokas
-github.com/armaantokas
+
+"https://www.github.com/armaantokas"
