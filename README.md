@@ -1,6 +1,6 @@
 # player-tracker
 
-#Player Re-Identification & Tracking
+# Player Re-Identification & Tracking
 
 A computer vision pipeline that detects, tracks, and re-identifies football players in a video — even if they leave and re-enter the frame — using a combination of YOLOv5 for detection, custom SORT tracking, and feature-based re-identification.
 
@@ -36,7 +36,7 @@ To download it:
 python download_model.py
 ```
 
-If that does not work here is the link to download:- "https://drive.google.com/file/d/1kTXyF9O4gCGHIVsM9HfRr7X3eopc4zj4/view?usp=sharing"
+If that does not work here is the link to download:- https://drive.google.com/file/d/1kTXyF9O4gCGHIVsM9HfRr7X3eopc4zj4/view?usp=sharing
 
 ### 4. Run Main.py
 
