@@ -2,6 +2,7 @@
 
 A computer vision pipeline that detects, tracks, and re-identifies football players in a video — even if they leave and re-enter the frame — using a combination of YOLOv5 for detection, custom SORT tracking, and feature-based re-identification.
 
+*Test Video and Model used are given in the repo*
 ---
 
 ## Features
