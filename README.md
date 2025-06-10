@@ -37,6 +37,9 @@ python download_model.py
 If that does not work here is the link to download:- https://drive.google.com/file/d/1kTXyF9O4gCGHIVsM9HfRr7X3eopc4zj4/view?usp=sharing
 
 ### 4. Run Main.py
+```bash
+python main.py
+```
 
 ---
 
